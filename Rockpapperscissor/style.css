@@ -1,0 +1,36 @@
+#nav_div{
+    display:flex;
+}
+
+#nav_div img{
+    height :67px;
+    width:80px;
+    margin-top:20px;
+    margin-left:25px;
+
+}
+
+body{
+    background: rgb(230,63,201);
+background: linear-gradient(90deg, rgba(230,63,201,1) 0%, rgba(59,202,240,1) 64%);
+}
+#titleofnavbar{
+    margin-top:39px;
+    margin-left:15px;   
+}
+
+
+#playground{
+    display: flex;
+    margin-top: 15%;
+    margin-left: 15%;
+    background: white;
+    border-radius: 36px;
+    padding: 20px;
+    width: 600px;
+}
+
+#playground img{
+    height: 10rem;
+   
+}
